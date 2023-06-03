@@ -13,10 +13,11 @@ quickly and easily view total combined views and clones of all your repos!
 Simply download the provided .exe file from the GitHub releases page and run it. There's no need to install any additional software or packages.
 Usage
 
-1. Open the .exe application.
-2. Enter your GitHub personal access token and username in the respective fields.
-3. Check the "Dark Mode" checkbox if you prefer dark mode.
-4. Click the "Get Traffic Data" button. The app will then display the total views and clones of your repositories.
+1. Open the traffic_viewer file.
+2. Open the traffic_viewer.exe application.
+3. Enter your GitHub personal access token and username in the respective fields.
+4. Check the "Dark Mode" checkbox if you prefer dark mode.
+5. Click the "Get Traffic Data" button. The app will then display the total views and clones of your repositories.
 
 # For Users of the python Version
     
