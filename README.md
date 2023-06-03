@@ -10,7 +10,7 @@ quickly and easily view total combined views and clones of all your repos!
 
 # For Users of the Executable Version
 
-Simply download the provided traffic_viewer file and run the traffic_viewer.exe in it. There's no need to install any additional software or packages.
+Simply download the provided traffic_viewer folder and run the traffic_viewer.exe program in it. There's no need to install any additional software or packages.
 
 1. Open the traffic_viewer file.
 2. Open the traffic_viewer.exe application.
@@ -19,6 +19,8 @@ Simply download the provided traffic_viewer file and run the traffic_viewer.exe 
 5. Click the "Get Traffic Data" button. The app will then display the total views and clones of your repositories.
 
 # For Users of the python Version
+    
+The traffic_viewer.py script can be found in the source code folder.
     
 1. Clone this repository or download the traffic_viewer.py script.
 2. Install the required Python packages. Open your terminal or command prompt, navigate to the directory of the script and run the following commands:
