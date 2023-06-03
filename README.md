@@ -31,3 +31,7 @@ The traffic_viewer.py script can be found in the source code folder.
 4. Enter your GitHub personal access token and username in the respective fields.
 5. Check the "Dark Mode" checkbox if you prefer dark mode.
 6. Click the "Get Traffic Data" button. The app will then display the total views and clones of your repositories.
+
+# License
+
+This project is licensed under the MIT License. For more details, see the LICENSE file.
