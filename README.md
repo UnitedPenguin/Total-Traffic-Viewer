@@ -10,7 +10,7 @@ quickly and easily view total combined views and clones of all your repos!
 
 # For Users of the Executable Version
 
-Simply download the provided traffic_viwer file and run the traffic_viewer.exe in it. There's no need to install any additional software or packages.
+Simply download the provided traffic_viewer file and run the traffic_viewer.exe in it. There's no need to install any additional software or packages.
 
 1. Open the traffic_viewer file.
 2. Open the traffic_viewer.exe application.
